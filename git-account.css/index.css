@@ -2,4 +2,6 @@ div{
     background-color: brown;
     padding: 10px;
     margin-bottom: 10px;
+    border: 2px solid black;
+    box-shadow: 10px 10px 10px;
 }
